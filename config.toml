@@ -1,0 +1,11 @@
+baseURL = "https://deebify.github.io"
+languageCode = "en-us"
+title = "deebify.github.io"
+theme = "anatole"
+
+
+[params]
+title = "I'm Yassine"
+author = "Yassine EL DEEB"
+description = "Big Data and AI "
+profilePicture = "images/profile.jpg"
